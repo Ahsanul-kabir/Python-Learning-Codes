@@ -1,0 +1,1 @@
+print(" eida korar kisu nai but Mosh er video theke Deke nile habe")
